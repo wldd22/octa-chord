@@ -2939,13 +2939,13 @@
 		)
 	)
 	(junction
-		(at 130.81 127)
+		(at 125.73 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0672ac6a-cc80-4988-a91c-c0bed573df0f")
 	)
 	(junction
-		(at 99.06 127)
+		(at 93.98 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "10b7c77e-896b-4471-875d-e294a0b668c8")
@@ -2957,7 +2957,7 @@
 		(uuid "114ce3ab-1cdc-40b8-8a58-66417c23f45f")
 	)
 	(junction
-		(at 162.56 127)
+		(at 157.48 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "38391164-c75a-4ad4-9e6f-7f5bd03aef6b")
@@ -2975,7 +2975,7 @@
 		(uuid "453d1bc1-53c4-49c2-b276-c0948edae1ba")
 	)
 	(junction
-		(at 162.56 149.86)
+		(at 157.48 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4ffea860-d932-4982-b80e-f94e0bcdec21")
@@ -2987,13 +2987,13 @@
 		(uuid "59b029ef-dfac-4379-ab05-f219631d2a0a")
 	)
 	(junction
-		(at 158.75 54.61)
+		(at 152.4 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5f2781c2-01d5-45e3-8bca-2e8e69936c87")
 	)
 	(junction
-		(at 130.81 149.86)
+		(at 125.73 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d3ae9f9-87e6-4b40-80bd-97e1b980c0eb")
@@ -3011,7 +3011,7 @@
 		(uuid "ec54ef2b-047c-415f-8787-51d0574c0aa3")
 	)
 	(junction
-		(at 99.06 149.86)
+		(at 93.98 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb8642ac-1513-4f22-a967-4d7d32ab084c")
@@ -3027,7 +3027,7 @@
 		(uuid "46f06de0-4558-484f-90a5-ea2af8bdd832")
 	)
 	(no_connect
-		(at 170.18 138.43)
+		(at 165.1 134.62)
 		(uuid "b61bf913-e047-444a-8712-71aa36b0f062")
 	)
 	(wire
@@ -3052,7 +3052,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 127) (xy 130.81 130.81)
+			(xy 125.73 123.19) (xy 125.73 127)
 		)
 		(stroke
 			(width 0)
@@ -3202,7 +3202,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 48.26) (xy 151.13 48.26)
+			(xy 147.32 53.34) (xy 144.78 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3212,7 +3212,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 149.86) (xy 162.56 146.05)
+			(xy 157.48 146.05) (xy 157.48 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3232,7 +3232,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 123.19) (xy 162.56 127)
+			(xy 157.48 121.92) (xy 157.48 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3242,7 +3242,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 130.81) (xy 67.31 127)
+			(xy 62.23 127) (xy 62.23 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3292,7 +3292,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 146.05) (xy 130.81 149.86)
+			(xy 125.73 142.24) (xy 125.73 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3312,7 +3312,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 149.86) (xy 162.56 149.86)
+			(xy 125.73 146.05) (xy 157.48 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3342,7 +3342,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 127) (xy 130.81 127)
+			(xy 93.98 123.19) (xy 125.73 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3372,7 +3372,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 127) (xy 99.06 127)
+			(xy 62.23 123.19) (xy 93.98 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3382,7 +3382,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 127) (xy 162.56 127)
+			(xy 125.73 123.19) (xy 157.48 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3392,7 +3392,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 149.86) (xy 162.56 153.67)
+			(xy 157.48 146.05) (xy 157.48 147.32)
 		)
 		(stroke
 			(width 0)
@@ -3402,7 +3402,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 52.07) (xy 158.75 54.61)
+			(xy 152.4 57.15) (xy 152.4 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3432,7 +3432,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 127) (xy 162.56 130.81)
+			(xy 157.48 123.19) (xy 157.48 127)
 		)
 		(stroke
 			(width 0)
@@ -3452,7 +3452,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 39.37) (xy 158.75 44.45)
+			(xy 152.4 44.45) (xy 152.4 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3462,7 +3462,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 146.05) (xy 99.06 149.86)
+			(xy 93.98 142.24) (xy 93.98 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3502,7 +3502,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 146.05) (xy 67.31 149.86)
+			(xy 62.23 142.24) (xy 62.23 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3512,7 +3512,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 149.86) (xy 130.81 149.86)
+			(xy 93.98 146.05) (xy 125.73 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3622,7 +3622,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 138.43) (xy 91.44 138.43)
+			(xy 69.85 134.62) (xy 86.36 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3652,7 +3652,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 48.26) (xy 151.13 54.61)
+			(xy 144.78 53.34) (xy 144.78 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3722,7 +3722,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 48.26) (xy 172.72 48.26)
+			(xy 156.21 53.34) (xy 166.37 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3752,7 +3752,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 138.43) (xy 154.94 138.43)
+			(xy 133.35 134.62) (xy 149.86 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3762,7 +3762,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 130.81) (xy 99.06 127)
+			(xy 93.98 127) (xy 93.98 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3852,7 +3852,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 138.43) (xy 123.19 138.43)
+			(xy 101.6 134.62) (xy 118.11 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3872,7 +3872,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 149.86) (xy 99.06 149.86)
+			(xy 62.23 146.05) (xy 93.98 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3902,7 +3902,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 138.43) (xy 59.69 138.43)
+			(xy 46.99 134.62) (xy 54.61 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3922,7 +3922,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 54.61) (xy 158.75 54.61)
+			(xy 144.78 59.69) (xy 152.4 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3962,7 +3962,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 54.61) (xy 158.75 57.15)
+			(xy 152.4 59.69) (xy 152.4 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4040,16 +4040,6 @@
 		)
 		(uuid "07d52984-ada5-4157-aa61-dbf2f4e183dc")
 	)
-	(label "ENC1_B"
-		(at 85.09 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1945211b-f174-48ae-857b-3ab9efc706dc")
-	)
 	(label "SWITCH3"
 		(at 73.66 102.87 180)
 		(effects
@@ -4059,6 +4049,16 @@
 			(justify right bottom)
 		)
 		(uuid "1c9a1fad-55d7-48eb-99e4-729523d91800")
+	)
+	(label "IRQ"
+		(at 142.24 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "282e92a3-c2c6-47bc-aa65-61e850967e1c")
 	)
 	(label "IRQ"
 		(at 158.75 85.09 0)
@@ -4080,16 +4080,6 @@
 		)
 		(uuid "31618dc5-4f65-4d95-8c35-c177f365e1b9")
 	)
-	(label "ENC1_A"
-		(at 85.09 101.6 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "33cde52f-1a8f-49a1-b091-f0ecbe84c89b")
-	)
 	(label "SDA"
 		(at 158.75 95.25 0)
 		(effects
@@ -4100,25 +4090,15 @@
 		)
 		(uuid "39e744ed-2a9b-4d5b-8358-ca64e7d1f366")
 	)
-	(label "ENC2_A"
-		(at 142.24 86.36 180)
+	(label "ENC2_B"
+		(at 142.24 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "411041ed-d10d-428e-b70f-273dbb1af0cc")
-	)
-	(label "IRQ"
-		(at 85.09 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "49db76a1-755c-4df4-87be-6dfc91c2a417")
+		(uuid "43fd149d-32e9-4760-aa2d-e56c4cf301f0")
 	)
 	(label "ENC1_S"
 		(at 100.33 44.45 180)
@@ -4131,14 +4111,14 @@
 		(uuid "4ca693ab-5b13-446b-8543-bbf570bef7ff")
 	)
 	(label "SWITCH3"
-		(at 142.24 99.06 180)
+		(at 85.09 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
-		(uuid "4ce03827-2a98-4009-b10c-275613d3829c")
+		(uuid "58b875f9-2fb0-42b5-872e-971f1298a792")
 	)
 	(label "ENC1_A"
 		(at 62.23 44.45 0)
@@ -4151,7 +4131,7 @@
 		(uuid "66299ee7-c220-418d-948e-5abaa8519345")
 	)
 	(label "SLIDE"
-		(at 172.72 48.26 180)
+		(at 166.37 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4170,16 +4150,6 @@
 		)
 		(uuid "7a2cdff6-5ede-425e-9d75-85441c5a3ec7")
 	)
-	(label "SCL"
-		(at 85.09 93.98 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7d984d02-ae53-47e0-b740-d6465244cf65")
-	)
 	(label "ENC2_B"
 		(at 104.14 49.53 0)
 		(effects
@@ -4190,27 +4160,7 @@
 		)
 		(uuid "7efab78a-b40e-4c5d-841d-f8d1ed84ca32")
 	)
-	(label "SWITCH4"
-		(at 142.24 101.6 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8755c24c-69fa-4d72-a4f7-3e124ecfefd7")
-	)
-	(label "SWITCH1"
-		(at 142.24 93.98 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "87971406-cc62-48f5-98fe-7ed23ee4583d")
-	)
-	(label "SWITCH2"
+	(label "SLIDE"
 		(at 142.24 96.52 180)
 		(effects
 			(font
@@ -4218,7 +4168,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "8ff17d6b-b559-4efb-9508-823e7428ae10")
+		(uuid "82e730e9-409c-48c7-8904-518ee560d92b")
 	)
 	(label "ENC1_B"
 		(at 62.23 49.53 0)
@@ -4240,7 +4190,7 @@
 		)
 		(uuid "9811273e-9ec6-4275-815d-5561f9aed297")
 	)
-	(label "SDA"
+	(label "SWITCH2"
 		(at 85.09 96.52 0)
 		(effects
 			(font
@@ -4248,20 +4198,30 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "a2bf2252-ee25-4e54-83c7-3d5ee9e2e67c")
+		(uuid "984ab978-7fcf-448e-b234-e57774d09743")
 	)
-	(label "SLIDE"
-		(at 142.24 91.44 180)
+	(label "ENC1_A"
+		(at 142.24 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "a96e3d53-9843-4728-9a37-b854750b1fd8")
+		(uuid "ad99a6aa-725d-44b3-86a8-eb2d163e1b61")
+	)
+	(label "SCL"
+		(at 142.24 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "adf0b619-edea-44de-a8da-fdf86d2bcd49")
 	)
 	(label "LED"
-		(at 52.07 138.43 0)
+		(at 46.99 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4269,6 +4229,16 @@
 			(justify left bottom)
 		)
 		(uuid "b81169f4-eb29-416c-af40-2ea524e17ef5")
+	)
+	(label "LED"
+		(at 85.09 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "be3b81aa-735d-47a1-9145-270ea620bce2")
 	)
 	(label "SWITCH2"
 		(at 73.66 88.9 180)
@@ -4290,15 +4260,15 @@
 		)
 		(uuid "bf247506-3a1d-4e7f-9c8f-f55fb82a81b1")
 	)
-	(label "ENC2_B"
-		(at 142.24 88.9 180)
+	(label "SDA"
+		(at 142.24 99.06 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "c3173c74-65eb-42bb-a603-3921049f9dbb")
+		(uuid "c5f0a071-51a0-4491-88bc-b3e1ddce0a60")
 	)
 	(label "SWITCH1"
 		(at 73.66 74.93 180)
@@ -4310,15 +4280,45 @@
 		)
 		(uuid "dd4a673a-0ea7-4710-b9ee-90352611b9ae")
 	)
-	(label "LED"
-		(at 142.24 104.14 180)
+	(label "ENC2_A"
+		(at 142.24 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "e6d2da9f-ef7f-4277-ae17-8385ac894c57")
+		(uuid "df964d5e-c2b5-47f8-8404-6a2812f24021")
+	)
+	(label "SWITCH1"
+		(at 85.09 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e1a37c8e-dd86-473c-ba01-453a914a4642")
+	)
+	(label "SWITCH4"
+		(at 85.09 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f3f32a6f-952d-42cc-bcce-41bf8d36927e")
+	)
+	(label "ENC1_B"
+		(at 142.24 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f531e686-8a8e-49b7-9a4d-326d1d2f9c52")
 	)
 	(label "ENC2_S"
 		(at 85.09 88.9 0)
@@ -4332,7 +4332,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 162.56 153.67 0)
+		(at 157.48 147.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4343,7 +4343,7 @@
 		(fields_autoplaced yes)
 		(uuid "00e5370f-501b-4aa5-aa1b-ad66d156b05e")
 		(property "Reference" "#PWR012"
-			(at 162.56 160.02 0)
+			(at 157.48 153.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4354,7 +4354,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 162.56 158.75 0)
+			(at 157.48 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4364,7 +4364,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 153.67 0)
+			(at 157.48 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4375,7 +4375,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 153.67 0)
+			(at 157.48 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4386,7 +4386,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 162.56 153.67 0)
+			(at 157.48 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4488,7 +4488,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_MountingPin")
-		(at 158.75 48.26 0)
+		(at 152.4 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4498,7 +4498,7 @@
 		(dnp no)
 		(uuid "0b20896a-eac3-4a0d-81cf-691d80443a1e")
 		(property "Reference" "RV1"
-			(at 163.83 40.894 0)
+			(at 157.48 45.974 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4508,7 +4508,7 @@
 			)
 		)
 		(property "Value" "Slider"
-			(at 163.83 43.434 0)
+			(at 157.48 48.514 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4518,7 +4518,7 @@
 			)
 		)
 		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_PTA1543_Single_Slide"
-			(at 158.75 48.26 0)
+			(at 152.4 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4529,7 +4529,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 48.26 0)
+			(at 152.4 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4540,7 +4540,7 @@
 			)
 		)
 		(property "Description" "Potentiometer with a mounting pin"
-			(at 158.75 48.26 0)
+			(at 152.4 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4551,7 +4551,7 @@
 			)
 		)
 		(property "Sim.Device" "R"
-			(at 158.75 48.26 0)
+			(at 152.4 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4562,7 +4562,7 @@
 			)
 		)
 		(property "Sim.Type" "POT"
-			(at 158.75 48.26 0)
+			(at 152.4 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4573,7 +4573,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
-			(at 158.75 48.26 0)
+			(at 152.4 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4606,7 +4606,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 158.75 57.15 0)
+		(at 152.4 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4617,7 +4617,7 @@
 		(fields_autoplaced yes)
 		(uuid "19bb00d5-309d-44f0-a08d-730c2d1ab4e6")
 		(property "Reference" "#PWR09"
-			(at 158.75 63.5 0)
+			(at 152.4 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4628,7 +4628,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 158.75 62.23 0)
+			(at 152.4 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4638,7 +4638,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 57.15 0)
+			(at 152.4 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4649,7 +4649,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 57.15 0)
+			(at 152.4 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4660,7 +4660,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 158.75 57.15 0)
+			(at 152.4 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4946,7 +4946,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 67.31 138.43 0)
+		(at 62.23 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4956,8 +4956,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28d0d8ca-ee29-4150-a47d-3d0d4f70ac71")
-		(property "Reference" "D4"
-			(at 81.28 132.0098 0)
+		(property "Reference" "D1"
+			(at 76.2 128.1998 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4967,7 +4967,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 81.28 134.5498 0)
+			(at 76.2 130.7398 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4977,7 +4977,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 68.58 146.05 0)
+			(at 63.5 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4989,7 +4989,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 69.85 147.955 0)
+			(at 64.77 144.145 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5001,7 +5001,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 67.31 138.43 0)
+			(at 62.23 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5026,7 +5026,7 @@
 		(instances
 			(project "octa-chord"
 				(path "/62f10cfb-cfab-4b65-9517-f35884c8b621"
-					(reference "D4")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -5398,7 +5398,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 99.06 138.43 0)
+		(at 93.98 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5408,8 +5408,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66d213fd-3908-4ba2-bc69-2aa1df3f0896")
-		(property "Reference" "D1"
-			(at 113.03 132.0098 0)
+		(property "Reference" "D2"
+			(at 107.95 128.1998 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5419,7 +5419,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 113.03 134.5498 0)
+			(at 107.95 130.7398 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5429,7 +5429,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 100.33 146.05 0)
+			(at 95.25 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5441,7 +5441,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 101.6 147.955 0)
+			(at 96.52 144.145 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5453,7 +5453,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 99.06 138.43 0)
+			(at 93.98 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5478,7 +5478,7 @@
 		(instances
 			(project "octa-chord"
 				(path "/62f10cfb-cfab-4b65-9517-f35884c8b621"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -6010,7 +6010,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 158.75 39.37 0)
+		(at 152.4 44.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6021,7 +6021,7 @@
 		(fields_autoplaced yes)
 		(uuid "c278d3ab-0b0e-4853-bcb1-a8d3f25876cf")
 		(property "Reference" "#PWR010"
-			(at 158.75 43.18 0)
+			(at 152.4 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6032,7 +6032,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 158.75 34.29 0)
+			(at 152.4 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6042,7 +6042,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 158.75 39.37 0)
+			(at 152.4 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6053,7 +6053,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 158.75 39.37 0)
+			(at 152.4 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6064,7 +6064,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 158.75 39.37 0)
+			(at 152.4 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6166,7 +6166,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 162.56 138.43 0)
+		(at 157.48 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6176,8 +6176,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d76aa4b2-90a7-4225-a514-fb4959af4b25")
-		(property "Reference" "D3"
-			(at 176.53 132.0098 0)
+		(property "Reference" "D4"
+			(at 171.45 128.1998 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6187,7 +6187,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 176.53 134.5498 0)
+			(at 171.45 130.7398 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6197,7 +6197,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 163.83 146.05 0)
+			(at 158.75 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6209,7 +6209,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 165.1 147.955 0)
+			(at 160.02 144.145 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6221,7 +6221,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 162.56 138.43 0)
+			(at 157.48 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6246,7 +6246,7 @@
 		(instances
 			(project "octa-chord"
 				(path "/62f10cfb-cfab-4b65-9517-f35884c8b621"
-					(reference "D3")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -6254,7 +6254,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI-E")
-		(at 130.81 138.43 0)
+		(at 125.73 134.62 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6264,8 +6264,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9c3f08f-f599-4c6e-8449-f27890e63a84")
-		(property "Reference" "D2"
-			(at 144.78 132.0098 0)
+		(property "Reference" "D3"
+			(at 139.7 128.1998 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6275,7 +6275,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI-E"
-			(at 144.78 134.5498 0)
+			(at 139.7 130.7398 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6285,7 +6285,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
-			(at 132.08 146.05 0)
+			(at 127 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6297,7 +6297,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C5149201.pdf"
-			(at 133.35 147.955 0)
+			(at 128.27 144.145 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6309,7 +6309,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 130.81 138.43 0)
+			(at 125.73 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6334,7 +6334,7 @@
 		(instances
 			(project "octa-chord"
 				(path "/62f10cfb-cfab-4b65-9517-f35884c8b621"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -6422,7 +6422,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 162.56 123.19 0)
+		(at 157.48 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6433,7 +6433,7 @@
 		(fields_autoplaced yes)
 		(uuid "e2d3084c-df1e-4830-a58a-4752331f65d6")
 		(property "Reference" "#PWR011"
-			(at 162.56 127 0)
+			(at 157.48 125.73 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6444,7 +6444,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 162.56 118.11 0)
+			(at 157.48 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6454,7 +6454,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 123.19 0)
+			(at 157.48 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6465,7 +6465,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 123.19 0)
+			(at 157.48 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6476,7 +6476,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 162.56 123.19 0)
+			(at 157.48 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

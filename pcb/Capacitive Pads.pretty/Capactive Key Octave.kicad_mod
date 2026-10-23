@@ -4,10 +4,10 @@
 	(generator_version "10.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+		(at 0 -1 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "19b1c930-d562-4c77-9c77-6fe2a7161912")
+		(uuid "d968f3dd-3818-46f8-967f-dfff26104ee1")
 		(effects
 			(font
 				(size 1 1)
@@ -16,10 +16,10 @@
 		)
 	)
 	(property "Value" "Capactive Key Octave"
-		(at 0 1 0)
+		(at 0 0.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "665e856b-e52d-4f39-844b-7e31ac6ca41a")
+		(uuid "c7f4dfd0-b712-4acd-8cdf-0fa8a7573df3")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ce225e29-9c27-4d2c-9ac0-9d86750ad3b7")
+		(uuid "fa6b6a26-f244-4be9-84cc-c9e3322a5d9f")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "08ccffdb-b238-47b9-963a-f5a2bcb3d3b2")
+		(uuid "21581c45-67af-4580-9e5b-15ec1f4dbe6c")
 		(effects
 			(font
 				(size 1 1)
@@ -56,21 +56,21 @@
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_rect
-		(start -80 1)
-		(end 80 69)
+		(start -78 0)
+		(end 78 64)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "73471258-bc0e-4297-9322-8be5d5d55edd")
+		(uuid "1b7d7fa8-0ff1-4756-ae69-44311d3aa0e0")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 2.5 0)
+		(at 0 2 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "393b5138-d4da-478a-a81e-a584dbd88604")
+		(uuid "2ac059ef-6878-4532-bc4c-9a50ef4abedd")
 		(effects
 			(font
 				(size 1 1)
@@ -79,7 +79,7 @@
 		)
 	)
 	(pad "1" smd custom
-		(at -66 56)
+		(at -66 53)
 		(size 20 18)
 		(layers "F.Cu" "F.Mask")
 		(options
@@ -94,16 +94,16 @@
 				(fill yes)
 			)
 		)
-		(uuid "ea64477e-a85c-4318-b50f-fa9936ba6fa4")
+		(uuid "e20be7cb-4061-4c27-9eca-f435d2f813af")
 	)
 	(pad "2" smd rect
-		(at -55 25)
+		(at -55 22)
 		(size 10 40)
 		(layers "F.Cu" "F.Mask")
-		(uuid "3814379a-6bd2-4e70-bdf4-64728efed2b0")
+		(uuid "9bb098d0-3e52-49ef-9375-f223bbc1877e")
 	)
 	(pad "3" smd custom
-		(at -44 56)
+		(at -44 53)
 		(size 20 18)
 		(layers "F.Cu" "F.Mask")
 		(options
@@ -118,16 +118,16 @@
 				(fill yes)
 			)
 		)
-		(uuid "d05409cc-6e26-43bc-9771-4ce5334aae9d")
+		(uuid "a6670594-e942-4008-bbcd-59b2d442f7d0")
 	)
 	(pad "4" smd rect
-		(at -33 25)
+		(at -33 22)
 		(size 10 40)
 		(layers "F.Cu" "F.Mask")
-		(uuid "9dc80ae7-34d1-494b-b037-33c91520071d")
+		(uuid "c027c035-4e79-4ca7-ac99-a788e3df1a32")
 	)
 	(pad "5" smd custom
-		(at -22 56)
+		(at -22 53)
 		(size 20 18)
 		(layers "F.Cu" "F.Mask")
 		(options
@@ -142,10 +142,10 @@
 				(fill yes)
 			)
 		)
-		(uuid "9f9563b3-942a-40b5-bbe2-3b5f40065163")
+		(uuid "a509426c-583c-4d2a-97cb-655e72913657")
 	)
 	(pad "6" smd custom
-		(at 0 56)
+		(at 0 53)
 		(size 20 18)
 		(layers "F.Cu" "F.Mask")
 		(options
@@ -160,16 +160,16 @@
 				(fill yes)
 			)
 		)
-		(uuid "8e64831b-06ce-4fb5-9435-c88cce0935d3")
+		(uuid "44e9a48f-8a69-4f4b-82dc-f6fce0e69dc4")
 	)
 	(pad "7" smd rect
-		(at 11 25)
+		(at 11 22)
 		(size 10 40)
 		(layers "F.Cu" "F.Mask")
-		(uuid "af26c034-5785-4824-9525-2aa187642122")
+		(uuid "b1cf367a-426a-49a9-a018-31333e257089")
 	)
 	(pad "8" smd custom
-		(at 22 56)
+		(at 22 53)
 		(size 20 18)
 		(layers "F.Cu" "F.Mask")
 		(options
@@ -184,16 +184,16 @@
 				(fill yes)
 			)
 		)
-		(uuid "15a87f84-cd69-4fb1-bd33-f8e7b34a36ba")
+		(uuid "8961a370-ed39-4817-b862-97e0a4b7fdc2")
 	)
 	(pad "9" smd rect
-		(at 33 25)
+		(at 33 22)
 		(size 10 40)
 		(layers "F.Cu" "F.Mask")
-		(uuid "d083416b-ffc4-4e3c-b352-92f7e80b5d2b")
+		(uuid "5a2ca69c-d639-4194-9ad1-20450e982e0a")
 	)
 	(pad "10" smd custom
-		(at 44 56)
+		(at 44 53)
 		(size 20 18)
 		(layers "F.Cu" "F.Mask")
 		(options
@@ -208,16 +208,16 @@
 				(fill yes)
 			)
 		)
-		(uuid "14484a26-8599-4e6c-8e1d-2c5dd5fcc1ae")
+		(uuid "aedca931-b264-4d21-8516-dd8ffc00dd73")
 	)
 	(pad "11" smd rect
-		(at 55 25)
+		(at 55 22)
 		(size 10 40)
 		(layers "F.Cu" "F.Mask")
-		(uuid "e31e23c7-1461-479c-a730-65a52ac98c88")
+		(uuid "d7c64370-bc05-472a-bcf9-bfc461c554e1")
 	)
 	(pad "12" smd custom
-		(at 66 56)
+		(at 66 53)
 		(size 20 18)
 		(layers "F.Cu" "F.Mask")
 		(options
@@ -232,7 +232,7 @@
 				(fill yes)
 			)
 		)
-		(uuid "a9a02131-55f5-469b-a4ce-6ddf349d036c")
+		(uuid "e881193b-37b8-4b29-af9d-2f9a3f4566a4")
 	)
 	(embedded_fonts no)
 )
