@@ -262,7 +262,7 @@
 			(pin passive line
 				(at 12.7 5.08 180)
 				(length 2.54)
-				(name "LED0/ELE4"
+				(name "ELE4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -280,7 +280,7 @@
 			(pin passive line
 				(at 12.7 2.54 180)
 				(length 2.54)
-				(name "LED1/ELE5"
+				(name "ELE5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -298,7 +298,7 @@
 			(pin passive line
 				(at 12.7 0 180)
 				(length 2.54)
-				(name "LED2/ELE6"
+				(name "ELE6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -316,7 +316,7 @@
 			(pin passive line
 				(at 12.7 -2.54 180)
 				(length 2.54)
-				(name "LED3/ELE7"
+				(name "ELE7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -334,7 +334,7 @@
 			(pin passive line
 				(at 12.7 -5.08 180)
 				(length 2.54)
-				(name "LED4/ELE8"
+				(name "ELE8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -352,7 +352,7 @@
 			(pin passive line
 				(at 12.7 -7.62 180)
 				(length 2.54)
-				(name "LED5/ELE9"
+				(name "ELE9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -370,7 +370,7 @@
 			(pin passive line
 				(at 12.7 -10.16 180)
 				(length 2.54)
-				(name "LED6/ELE10"
+				(name "ELE10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -388,7 +388,7 @@
 			(pin passive line
 				(at 12.7 -12.7 180)
 				(length 2.54)
-				(name "LED7/ELE11"
+				(name "ELE11"
 					(effects
 						(font
 							(size 1.27 1.27)

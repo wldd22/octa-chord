@@ -9,7 +9,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at -10.16 19.05 0)
+			(at 0 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19,7 +19,7 @@
 			)
 		)
 		(property "Value" "MPR121_Breakout_12Pin"
-			(at 6.35 19.05 0)
+			(at 0 19.304 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29,7 +29,7 @@
 			)
 		)
 		(property "Footprint" "MPR121:MPR121_Breakout_12Pin"
-			(at 0 -19.05 0)
+			(at 0 -17.018 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -86,7 +86,7 @@
 		(symbol "MPR121_Breakout_12Pin_0_1"
 			(rectangle
 				(start -10.16 17.78)
-				(end 10.16 -17.78)
+				(end 10.16 -15.24)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -98,7 +98,7 @@
 		)
 		(symbol "MPR121_Breakout_12Pin_1_1"
 			(pin open_collector line
-				(at -12.7 6.35 0)
+				(at -12.7 10.16 0)
 				(length 2.54)
 				(name "~{IRQ}"
 					(effects
@@ -116,7 +116,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 1.27 0)
+				(at -12.7 5.08 0)
 				(length 2.54)
 				(name "SCL"
 					(effects
@@ -134,7 +134,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at -12.7 -3.81 0)
+				(at -12.7 0 0)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -152,7 +152,7 @@
 				)
 			)
 			(pin input line
-				(at -12.7 -8.89 0)
+				(at -12.7 -5.08 0)
 				(length 2.54)
 				(name "ADD"
 					(effects
@@ -170,7 +170,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 -13.97 0)
+				(at -12.7 -10.16 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -404,7 +404,7 @@
 				)
 			)
 			(pin power_in line
-				(at -12.7 11.43 0)
+				(at -12.7 15.24 0)
 				(length 2.54)
 				(name "3.3V"
 					(effects

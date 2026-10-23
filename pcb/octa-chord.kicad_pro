@@ -665,13 +665,18 @@
       {
         "filename": "octa-chord.kicad_sch",
         "name": "octa-chord",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "62f10cfb-cfab-4b65-9517-f35884c8b621"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR1-12,D1-3,J1,RV1-2,SW1-6,U1-2",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "62f10cfb-cfab-4b65-9517-f35884c8b621",
+      "octa-chord"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
