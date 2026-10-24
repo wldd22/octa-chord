@@ -104,7 +104,7 @@ Next, I created the BOM. This look *a while* because I had to find the cheapest 
 ![BOM](https://halflife.hackclub-assets.com/sessions/WlipWVmF6UnTGNkVVXdowr37dB4xoM3o/c0654f6183340af98cbeb799de1c7e73c53f6fed093ee6c30a1df205778ea857.png)
 
 Some things to mention:
-- The PCB is way more expensive than usual (the board itself and JLCPCB's "engineering fee") because it's pretty big (168mmx113mm)
+- The PCB is way more expensive than usual (the board itself and JLCPCB's "engineering fee") because it's pretty big (168mmx113mm). I tried some other sites to get the PCB made, but they were all way more pricey.
 - More than half of the shipping costs comes from DigiKey's shipping. I specifically tried to avoid it for that reason but it's really hard to find sources for the Bourns Potentiometer that don't have insanely high shipping.
 
 I'm at the last stretch now so my goals are to write the whole firmware for the board (probably using KMK), learning how MIDI works along the way, hopefully optimise the BOM more so it's not crazy expensive, and write a detailed README for the project.
