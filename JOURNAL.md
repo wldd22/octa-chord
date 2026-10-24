@@ -107,6 +107,6 @@ Some things to mention:
 - The PCB is way more expensive than usual (the board itself and JLCPCB's "engineering fee") because it's pretty big (168mmx113mm)
 - More than half of the shipping costs comes from DigiKey's shipping. I specifically tried to avoid it for that reason but it's really hard to find sources for the Bourns Potentiometer that don't have insanely high shipping.
 
-I'm at the last stretch now so my goals are to write the whole firmware for the board (probably using KMK), learning how MIDI works along the way, and hopefully optimise the BOM more so it's not crazy expensive.
+I'm at the last stretch now so my goals are to write the whole firmware for the board (probably using KMK), learning how MIDI works along the way, hopefully optimise the BOM more so it's not crazy expensive, and write a detailed README for the project.
 
 [Timelapse](https://lookout.hackclub.com/api/media/9a828850-8910-4bc1-9b3b-53b3abcec49b/video.mp4)
