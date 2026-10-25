@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvj7s3ex01vy01odo0tv8w9p). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A 12-key MIDI keyboard with rotary encoders, key switches, and capacitive touch pads.
+> A 12-key MIDI keyboard with two rotary encoders, six key switches, and twelve capacitive touch pads.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
