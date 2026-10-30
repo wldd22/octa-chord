@@ -2,4 +2,6 @@
 	(version 7)
 	(lib (name "Hackclub Footprints") (type "KiCad") (uri "${KIPRJMOD}/Hackclub Footprints.pretty") (options "") (descr ""))
 	(lib (name "Capacitive Pads") (type "KiCad") (uri "${KIPRJMOD}/Capacitive Pads.pretty") (options "") (descr ""))
+	(lib (name "Seeed Studio XIAO Series Library") (type "KiCad") (uri "${KIPRJMOD}/Seeed Studio XIAO Series Library") (options "") (descr ""))
+	(lib (name "MPR121") (type "KiCad") (uri "${KIPRJMOD}/MPR121.pretty") (options "") (descr ""))
 )
