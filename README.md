@@ -23,7 +23,7 @@ Firmware in **KMK**
 
 ## About
 Before making this project, I barely knew anything about MIDI, but I was curious to learn how it
-worked and use it to make simple music. So, for week 2 (Music week) of Hack Club's Half Life, I
+worked and use it to make simple music. So, for week 3 (Music week) of Hack Club's Half Life, I
 was excited to make a simple MIDI controller I could use and learn from.
 
 My original plan was far more ambitious than the final version. See [JOURNAL.md](JOURNAL.md) for some
