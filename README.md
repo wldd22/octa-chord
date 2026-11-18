@@ -39,3 +39,17 @@ and changes so the final product was useful, feasible, and something I could be 
 ### PCB Routing
 
 ![Routing](images/routing.png)
+
+## BOM
+
+Item  | Description  | Quantity  | Source  | Cost  | Amount
+--- | --- | --- | --- | --- | ---
+PCB  |  Board  |  1  |  [JLCPCB](https://jlcpcb.com/)  |  $13.20  |  $13.20
+ESP32-S3-Zero  |  Microcontroller  |  1  |  [Robu](https://robu.in/product/waveshare-esp32-s3-mini-development-board-based-on-esp32-s3fh4r2-dual-core-processor-240mhz-running-frequency-2-4ghz-wi-fi-bluetooth-5/)  |  $6.40  |  $6.40
+MPR121 Breakout V12  |  Capacitive Touch Sensor I2C Controller  |  1  |  [Robocraze](https://robocraze.com/products/mpr121-12-channel-capacitive-touch-sensor-controller-module-i2c-interface)  |  $1.50  |  $1.50
+Kailh Choc v1 Low Profile Switches (Burnt Orange)  |  Key switches  |  1  |  [NeoMacro](https://neomacro.in/products/kailh-choc-v1-switches?variant=49466990231830)  |  $5.10  |  $5.10
+Chocfox CFX Choc Blank Keycaps (1U x 10pcs)  |  Keycaps  |  1  |  [NeoMacro](https://neomacro.in/products/chocfox-cfx-choc-blank-keycaps?variant=49467026833686)  |  $3.70  |  $3.70
+Hongyan EC11H 7CE20P1ZD20  |  5-Pin Vertical Rotary Encoder with Switch  |  2  |  [Robu](https://robu.in/product/hongyan-ec11h-7ce20p1zd20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/)  |  $0.70  |  $1.40
+2.54mm 1x40 Pin Male Header Strip  |  Pin header  |  1  |  [Robu](https://robu.in/product/2-54mm-1x40-pin-male-single-row-straight-long-header-strip-pack-of-3/)  |  $0.16  |  $0.16
+Estimated total shipping  |  -  |  1  |  -  |  -  |  $11.70
+TOTAL  |  |  |  |  |  $43.16
